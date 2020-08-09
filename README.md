@@ -4,4 +4,4 @@ In my daily life, I enjoy cycling and running.
 
 Please check [my homepage](https://calciferzh.github.io/) for more details.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CalciferZh?&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CalciferZh&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
